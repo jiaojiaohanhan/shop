@@ -1,0 +1,13 @@
+{
+    "list":[
+        {
+            "name":"haha",
+            "age":32,
+            "height":180
+        },{
+            "name":"lala",
+            "age":30,
+            "height":182
+        }
+    ]
+}
